@@ -1,0 +1,16 @@
+{
+    "bill": {
+        "bill1":{
+            "price": 1500,
+            "date": "2024-01-08",
+            "apartment": "apart-polanka",
+            "account-type": "bank_account"
+        },
+        "bill2":{
+            "price": 3000,
+            "date": "2024-01-09",
+            "apartment": "apart-polanka",
+            "account-type": "bank_account"
+        }
+    }
+}
